@@ -1,1 +1,1 @@
-# instant_password
+# Instant Password
